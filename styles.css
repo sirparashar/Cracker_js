@@ -1,0 +1,32 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+.triangle-up {
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  border-bottom: 50px solid darkorange;
+
+}
+.triangle {
+  position: absolute;
+  bottom: 0px;
+  justify-content: center;
+  align-self: center;
+  align-items: center;
+  display: flex;
+  width: 100vw;
+}
+.triangle-up1 {
+
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-bottom: 30px solid red;
+
+}
+.text{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
