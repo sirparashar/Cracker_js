@@ -1,4 +1,4 @@
-# Cracker Proposal 
+# Cracker JS
 
 ## Fun Project
 
